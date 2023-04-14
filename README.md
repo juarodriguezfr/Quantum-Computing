@@ -1,4 +1,4 @@
-# Curso Quantum Computing
+# Quantum Computing
 
 ## Repositorio
 
@@ -17,7 +17,7 @@ Afiliación:
 ---
 ### Abstract
 
-Te damos la bienvenida a este repositorio creado para el curso gratuito de computación cuantica el cual se realiza en el marco de la línea de divulgación del [Semillero Quantum Computing](http://www.quantumc.unal.edu.co/) en la plataforma [Twitch](https://www.twitch.tv/quantum_computing_unal) todos los jueves a las 7:00 pm hora colombiana.
+Repositorio creado para alojar documentación relacionada con el trabajo hecho en el semillero de computación cuántica.
 
 ---
 
