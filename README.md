@@ -1,14 +1,6 @@
-<!-- First image on the left -->
-<p align="left">
-  <img src="https://github.com/juarodriguezfr/STEM-Education/blob/main/Logos/Logo%20Transparent.png?raw=1" width="187.5" height="150">
-</p>
+![Semillero Quantum Computing](https://github.com/juarodriguezfr/Quantum-Computing/blob/main/Quantum%20Computing%20Icon.ico)
 
-<!-- Second image on the right -->
-<p align="right">
-  <img src="https://github.com/juarodriguezfr/Quantum-Computing/blob/main/Quantum%20Computing%20Icon.ico" width="187.5" height="150">
-</p>
 
-<!-- New line for the header -->
 # Your Header
 
 
