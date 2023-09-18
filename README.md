@@ -13,7 +13,7 @@ Promover la agrupación de estudiantes para la realización de actividades de in
 
 ## Proyectos y Actividades
 * [Curso de computación cuántica](https://github.com/juarodriguezfr/Quantum-Computing/tree/main/Curso%20Quantum%20Computing): Curso gratuito ofrecido a todos los entusiastas que quieren iniciar en este mundo maravilloso.
-* [Charlas Divulgativas]([https://www.youtube.com/watch?v=Ne_-Q7j_XYc](https://www.youtube.com/playlist?list=PLNBrNYWFMvgpm_q63umiyJOOGt3D3xByc)): Realizamos distintos tipos de charlas y conversatorios divulgativos para que las personas no familiarizadas se acerquen a este nuevo paradigma tecnológico.
+* [Charlas Divulgativas](https://www.youtube.com/playlist?list=PLNBrNYWFMvgpm_q63umiyJOOGt3D3xByc): Realizamos distintos tipos de charlas y conversatorios divulgativos para que las personas no familiarizadas se acerquen a este nuevo paradigma tecnológico.
 * [Proyectos de investigación](http://www.quantumc.unal.edu.co/enfoques.html#): Desarrollamos proyectos de investigación en los cuales exploramos las aplicaciones y el potencial de la computación cuántica en diversas áreas del conocimiento y en la industria.
 
 ## Nuestras Redes
